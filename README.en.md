@@ -1,7 +1,7 @@
 <h1 align="center">SRT 🧰 (SimpleRockets2 Toolkit)</h1>
 
 <div align="center">
-<img src="E:/SR2模组资料/SRT-Android/Repository/images/TitlePage.png" width="140px" />
+<img src="./images/title_page.png" width="140px" />
 
 English | [简体中文](./README.md)
 
@@ -21,7 +21,7 @@ English | [简体中文](./README.md)
 [![Bilibili](https://img.shields.io/badge/bilibili-东方七宿-blue.svg?style=flat-square&logo=bilibili)](https://space.bilibili.com/392365729)
 [![QQ群](https://img.shields.io/badge/QQ群-784842122-blue.svg?style=flat-square&color=12b7f5&logo=qq)](https://jq.qq.com/?_wv=1027&k=x2WxtwUE)
 
-<img src="E:/SR2模组资料/SRT-Android/Repository/images/app_ui_en.jpg" width="800" />
+<img src="./images/app_ui_en.jpg" width="800px" />
 
 </div>
 
@@ -35,10 +35,7 @@ English | [简体中文](./README.md)
 ## ✨ Functions
 
 <div align="center">
-<img src="./images/srt_en.png" width="800" />
-
-
-
+<img src="./images/srt_en.png" width="800px" />
 </div>
 
 
@@ -84,3 +81,17 @@ Download link for PC：[Windows & MacOS](https://www.simplerockets.com/Mods/View
 
 - [Dom4j](https://dom4j.github.io/)
 
+---
+
+## 📰Disclaimer
+
+This program promises to be free but without be tampered for resale!
+
+We are not responsible if you obtain this program by paying
+
+Reproduction in any form is strictly prohibited without the permission of the author!
+
+<div align="center">
+<img src="./images/InfinityIndustryStudio.png" width="800px" />
+<b>Copyright ©2022 InfinityIndustryStudio</b>
+</div>

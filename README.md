@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./images/TitlePage.png" width="140px" />
+<img src="./images/title_page.png" width="140px" />
 
 [English](./README.en.md) | 简体中文
 
@@ -22,7 +22,7 @@
 [![Bilibili](https://img.shields.io/badge/bilibili-东方七宿-blue.svg?style=flat-square&logo=bilibili)](https://space.bilibili.com/392365729)
 [![QQ群](https://img.shields.io/badge/QQ群-784842122-blue.svg?style=flat-square&color=12b7f5&logo=qq)](https://jq.qq.com/?_wv=1027&k=x2WxtwUE)
 
-<img src="./images/app_ui_cn.jpg" width="800" />
+<img src="./images/app_ui_cn.jpg" width="800px" />
 
 </div>
 
@@ -36,8 +36,7 @@
 ## ✨ 功能
 
 <div align="center">
-<img src="./images/srt_cn.png" width="800" />
-
+<img src="./images/srt_cn.png" width="800px" />
 </div>
 
 
@@ -46,8 +45,8 @@
 
 **Windows**
 
-OS                                    | Version                    | 
---------------------------------------|----------------------------
+| OS                                                      | Version                    |
+| ------------------------------------------------------- | -------------------------- |
 | [Windows-client](https://www.microsoft.com/windows/)    | 7 SP1(**\***), 8.1(**\***) |
 | [Windows 10 Client](https://www.microsoft.com/windows/) | Version 1607+(**\***)      |
 | [Windows-11](https://www.microsoft.com/windows/)        | 2008 R2 SP1(**\***), 2012+ |
@@ -83,3 +82,17 @@ PC端下载地址：[Windows & MacOS](https://www.simplerockets.com/Mods/View/19
 
 - [Dom4j](https://dom4j.github.io/)
 
+---
+
+## 📰免责声明
+
+本程序承诺永久免费，不得篡改进行转卖!
+
+如果您以付费的方式获得此程序我们概不负责
+
+未经作者允许严禁任何形式转载！
+
+<div align="center">
+<img src="./images/InfinityIndustryStudio.png" width="800px" />
+<b>Copyright ©2022 InfinityIndustryStudio</b>
+</div>
