@@ -1,9 +1,9 @@
-<h1 align="center">SR2 Toolkit 🧰 (SimpleRockets2 Toolkit)</h1>
+<h1 align="center">SRT 🧰 (SimpleRockets2 Toolkit)</h1>
 
 <div align="center">
 <img src="E:/SR2模组资料/SRT-Android/Repository/images/TitlePage.png" width="140px" />
 
-English | [简体中文](.README.md)
+English | [简体中文](./README.md)
 
 
 「SR2 Toolkit」It is a muti-platform and multi-functional game toolkit. Most of the functions in this tool need you to download and install the game Simplerockets2 to use.
