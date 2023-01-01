@@ -91,6 +91,14 @@ We are not responsible if you obtain this program by paying
 
 Reproduction in any form is strictly prohibited without the permission of the author!
 
+## 🔍APP Signature information
+
+- Name: InfinityTechnology
+- Organizational Unit: InfinityIndustryStudio
+- Country Code: 86
+
+> SHA256: 7D481EA844DF214F2F32F40E40689179E3FC9AFB0D2048292B229FF3DF7CFC2C
+
 <div align="center">
 <img src="./images/InfinityIndustryStudio.png" width="800px" />
 <b>Copyright ©2022 InfinityIndustryStudio</b>
