@@ -36,7 +36,9 @@
 ## ✨ 功能
 
 <div align="center">
+
 <img src="./images/SRT_cn.png" width="800px" />
+
 </div>
 
 
