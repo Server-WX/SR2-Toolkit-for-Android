@@ -36,7 +36,7 @@ English | [简体中文](./README.md)
 
 <div align="center">
 
-<img src="./images/srt_en.png" width="800px" />
+<img src="./images/SRT_en.png" width="800px" />
 
 </div>
 
