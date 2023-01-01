@@ -36,7 +36,7 @@
 ## ✨ 功能
 
 <div align="center">
-<img src="./images/srt_cn.png" width="800px" />
+<img src="./images/SRT_cn.png" width="800px" />
 </div>
 
 
@@ -92,7 +92,18 @@ PC端下载地址：[Windows & MacOS](https://www.simplerockets.com/Mods/View/19
 
 未经作者允许严禁任何形式转载！
 
+### 🔍APP签名校验信息
+
+- 名称：InfinityTechnology
+- 所属组织：InfinityIndustryStudio
+- 国家代码：86
+
+> SHA256: 7D481EA844DF214F2F32F40E40689179E3FC9AFB0D2048292B229FF3DF7CFC2C
+
 <div align="center">
+
 <img src="./images/InfinityIndustryStudio.png" width="800px" />
+
 <b>Copyright ©2022 InfinityIndustryStudio</b>
+
 </div>
