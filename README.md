@@ -11,12 +11,10 @@
 
 ![Release Download](https://img.shields.io/github/downloads/Server-WX/SR2-Toolkit-for-Android/total?style=flat-square)
 [![Release Version](https://img.shields.io/github/v/release/Server-WX/SR2-Toolkit-for-Android?style=flat-square)](https://github.com/BeyondDimension/SteamTools/releases/latest)
-[![GitHub Star](https://img.shields.io/github/stars/Server-WX/SR2-Toolkit-for-Android?style=flat-square)](https://github.com/BeyondDimension/SteamTools/stargazers)
+[![GitHub Star](https://img.shields.io/github/stars/Server-WX/SR2-Toolkit-for-Android.svg?logo=github)](https://github.com/BeyondDimension/SteamTools)
 [![GitHub Fork](https://img.shields.io/github/forks/Server-WX/SR2-Toolkit-for-Android?style=flat-square)](https://github.com/BeyondDimension/SteamTools/network/members)
 ![GitHub Repo size](https://img.shields.io/github/repo-size/Server-WX/Simple_Rockets_Toolkit?style=flat-square&color=3cb371)
 [![GitHub Repo Languages](https://img.shields.io/github/languages/top/Server-WX/Simple_Rockets_Toolkit?style=flat-square)](https://github.com/Server-WX/Simple_Rockets_Toolkit/search?l=c%23)
-
-[![GitHub Star](https://img.shields.io/github/stars/Server-WX/SR2-Toolkit-for-Android.svg?logo=github)](https://github.com/BeyondDimension/SteamTools)
 
 [![爱发电](https://img.shields.io/badge/爱发电-东方七宿-blue.svg?style=flat-square&color=ea4aaa&logo=github-sponsors)](https://afdian.net/a/sr2toolkit-jc)
 [![Bilibili](https://img.shields.io/badge/bilibili-东方七宿-blue.svg?style=flat-square&logo=bilibili)](https://space.bilibili.com/392365729)
