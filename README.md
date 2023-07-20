@@ -28,8 +28,9 @@
 
 ## 🚀 下载渠道
 
-- [GitHub Releases](https://github.com/Server-WX/SR2-Toolkit-for-Android/releases)
+- [GitHub 发行版](https://github.com/Server-WX/SR2-Toolkit-for-Android/releases)
 - [QQ 群文件](https://jq.qq.com/?_wv=1027&k=x2WxtwUE)
+- [Gitee 发行版](https://gitee.com/kinglong-server/SR2-Toolkit-Android/releases/download/1.0/SimpleRockets2_Toolkit.apk)
 
 ## ✨ 功能
 
