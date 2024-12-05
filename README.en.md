@@ -86,11 +86,7 @@ Download link for PC：[Windows & MacOS](https://www.simplerockets.com/Mods/View
 
 ## 📰Disclaimer
 
-This program promises to be free but without be tampered for resale!
-
-We are not responsible if you obtain this program by paying
-
-Reproduction in any form is strictly prohibited without the permission of the author!
+This program is promised to be free forever, and we are not responsible if you obtain it through paid means.
 
 ## 🔍APP Signature information
 
